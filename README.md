@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meghanath Reddy, Junior at IIT Roorkee 
+- 👋 Hi, I’m Meghanath Reddy, Senior at IIT Roorkee 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DL and SQL
 - 📫 How to reach me https://www.linkedin.com/in/meghanathreddyv/
